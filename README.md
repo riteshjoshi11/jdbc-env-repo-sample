@@ -1,4 +1,4 @@
-# Spring Cloud: JDBCEnvironmentRepository Sample Application
+# Spring Cloud: JDBCEnvironmentRepository Sample Application [![Build Status](https://travis-ci.org/rashidi/jdbc-env-repo-sample.svg?branch=master)](https://travis-ci.org/rashidi/jdbc-env-repo-sample)
 Sample of [Spring Cloud Config Server][2] embedded application that uses database as backend for configuration properties.
 
 ## Background
